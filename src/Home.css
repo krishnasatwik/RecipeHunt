@@ -1,0 +1,41 @@
+
+.heading{
+    margin-top:50px;
+    font-size:60px;
+    text-align: center;
+    color: black;
+}
+.description{
+    color: #6a11cb;
+    font-size: 15px;
+    border-radius: 0.5rem;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px; /* Adjust this value to your needs */
+  height: 50px; /* Adjust this value to your needs */
+  margin: 0 auto;
+    
+}
+.typingAnimation{
+    white-space: nowrap;
+}
+.sup{
+    margin-top: 10px;
+    text-align: center;
+}
+span{
+    color:#6a11cb; 
+}
+.huntBtn {
+    background-color: #6a11cb;
+    border: none;
+    color: black;
+    cursor: pointer;
+    transition: all 0.4s ease;
+    margin: 10px;
+  }
+  
+  .huntBtn:hover {
+    transform: scale(1.1); 
+  }

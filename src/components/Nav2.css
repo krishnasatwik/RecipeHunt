@@ -1,0 +1,9 @@
+.bt1,.bt2,.bt3{
+    background-color: #6a11cb;
+    margin: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    transition: all 0.4s ease;
+}
+
