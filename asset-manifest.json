@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RecipeHunt/static/css/main.24553bd3.css",
+    "main.js": "/RecipeHunt/static/js/main.11774f35.js",
+    "index.html": "/RecipeHunt/index.html",
+    "main.24553bd3.css.map": "/RecipeHunt/static/css/main.24553bd3.css.map",
+    "main.11774f35.js.map": "/RecipeHunt/static/js/main.11774f35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24553bd3.css",
+    "static/js/main.11774f35.js"
+  ]
+}
